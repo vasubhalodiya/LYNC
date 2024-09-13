@@ -736,7 +736,7 @@ li{
 {
     position: absolute;
     top: 110px;
-    left: 250px;
+    left: 50px;
 }
 
 .eth-txt h3
@@ -785,19 +785,28 @@ li{
 {
     width: 100%;
     position: relative;
+    display: none;
 }
 
 .docs-bg .docs-mobile
 {
+    width: 100%;
     display: none;
+}
+
+.docs-bg .docs-long
+{
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
 }
 
 .docs-console img
 {
-    width: 230px;
+    width: 290px;
     position: absolute;
     top: 40px;
-    right: 0px;
+    right: 70px;
 }
 
 .docs-insite-card
@@ -808,8 +817,8 @@ li{
 .docs-insight-txt
 {
     position: absolute;
-    top: 30px;
-    left: 30px;
+    top: 50px;
+    left: 50px;
 }
 
 .docs-insight-txt h4
@@ -898,6 +907,10 @@ li{
 .docs-big-card
 {
     width: 60%;
+    height: 275px;
+    display: flex;
+    align-items: self-start;
+    justify-content: space-between;
 }
 
 .docs-big-card
@@ -917,7 +930,9 @@ li{
 
 .docs-big-card img
 {
-    width: 76%;
+    width: auto;
+    position: absolute;
+    bottom: 0;
 }
 
 .docs-big-card-txt
@@ -944,6 +959,7 @@ li{
     font-family: 'St-Medium';
     line-height: 25px;
 }
+
 
 /* *************************************************************** */
 
