@@ -142,8 +142,6 @@
     .footer-newsletter{margin-top: 30px;text-align: center;}
     .footer-input input{width: 55%;}
     .footer-input-btn a{right: 24%;}
-    /* .get-arrow .prev-btn{left: -50px;}
-    .get-arrow .next-btn{right: -50px;} */
 	.community-img img{width: 62%; right: 16%; top: 130px;}
     .community-txt{right: 32%;top: 285px;}
     .community-txt h3{font-size: 33px;line-height: 40px;}
@@ -168,6 +166,7 @@
     .eth{margin-bottom: 60px;}
     .docs-insight-txt h5{margin-bottom: 50px;}
     .docs-insight-txt{top: 25px;}
+    #menuList{width: 86%;left: 7%;}
 
 
 }
@@ -266,6 +265,7 @@
     .docs-mini-card h6, .docs-big-card-txt h6{font-size: 16px;}
     .suite{padding-top: 110px;}
     .docs-insight-btn a{padding: 8px 20px;font-size: 15px;}
+    #menuList{width: 86%;left: 7%;}
 
 
 
