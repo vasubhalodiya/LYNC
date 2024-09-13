@@ -714,7 +714,7 @@ li{
     z-index: -3;
 }
 
-.eth-card .eth-mobile
+.eth-card .eth-mobile, .eth-card .eth-mini
 {
     display: none;
 }

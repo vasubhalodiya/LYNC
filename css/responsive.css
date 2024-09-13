@@ -340,10 +340,10 @@
     .partner{margin-top: 700px;}
     .eth-txt h3{font-size: 18px;margin-bottom: 20px;}
     .eth-txt ul li h4{font-size: 15px;}
-    .eth-txt{position: unset;background-color: rgb(43, 43, 43, 0.6);}
     .eth-txt ul li{margin-bottom: 15px;}
     .eth-card .eth-dektop{display: none;}
     .eth-card .eth-mobile{display: none;}
+    .eth-card .eth-mini{display: block;}
     .eth-card img{margin-top: 0px;}
     .eth-txt ul li h4 img{width: 18px;}
     .docs-bg .docs-desktop{display: block;}
@@ -354,8 +354,7 @@
     .docs-insight-txt h4{width: 100%;line-height: 23px;}
     .docs-insight-txt h5{width: 100%;}
     .docs-console img{display: none;}
-    .docs-insight-txt{top: px;}
-
+    .eth-txt{top: 5%;}
 
 
 
