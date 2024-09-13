@@ -781,10 +781,15 @@ li{
     width: 100%;
 }
 
-.docs-bg img
+.docs-bg .docs-desktop
 {
     width: 100%;
     position: relative;
+}
+
+.docs-bg .docs-mobile
+{
+    display: none;
 }
 
 .docs-console img
