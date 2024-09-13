@@ -83,6 +83,12 @@
     .eth-txt ul li{margin-bottom: 15px;}
     .eth-card .eth-dektop{display: block;}
     .eth-card .eth-mobile{display: none;}
+    .docs-card{display: flex;flex-direction: column;margin-bottom: 30px;}
+    .docs-part{width: 100%;display: flex;flex-direction: row;}
+    .docs-insight-txt h4{width: 70%;}
+    .docs-console img{right: 3%;}
+    .docs-mini-card{height: 150px;display: flex;flex-direction: column;align-items: flex-start;justify-content: center;}
+    .docs-big-card{width: 100%;display: flex;justify-content: space-between;}
 
 
 
