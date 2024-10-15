@@ -1784,8 +1784,20 @@ li{
     right: 0px;
 }
 
+.my-watermark p
+{
+    width: 150px;
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: 1px;
+    rotate: 270deg;
+    float: right;
+}
 
-
+.my-watermark a
+{
+    color: red;
+}
 
 
 
